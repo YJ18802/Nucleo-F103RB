@@ -1,3 +1,5 @@
+//I am using putty terminal to view the data.
+
 
 #include "stm32f103xx.h"
 #include<string.h>
@@ -102,3 +104,4 @@ int main(void) {
 
 	return 0;
 }
+
