@@ -1,0 +1,5 @@
+../Src/007_UARTSend.c:8:6:delay	2
+../Src/007_UARTSend.c:14:7:USART2_GPIOInit	1
+../Src/007_UARTSend.c:36:6:USART2_Init	1
+../Src/007_UARTSend.c:52:6:Button_Init	1
+../Src/007_UARTSend.c:70:5:main	1
